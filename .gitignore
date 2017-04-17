@@ -1,3 +1,5 @@
 # Compiled files
 *.tfstate
 *.tfstate.backup
+id_rsa
+id_rsa.pub
